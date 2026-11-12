@@ -273,6 +273,9 @@ MeshMonitor supports multiple deployment methods:
   - Runs as a system tray application
   - Windows (.exe) and macOS (.dmg) installers available
 
+- **☁️ RepoCloud** - One-click template, no other instructions required
+  - [Deploy MeshMonitor on RepoCloud](https://repocloud.io/details/MeshMonitor/)
+
 ## Key Features
 
 - **Multi-Protocol, Multi-Source** - Monitor Meshtastic (TCP/Serial/BLE), MeshCore (USB/TCP), and MQTT brokers from a single deployment, with per-source permissions, schedulers, and Virtual Nodes
